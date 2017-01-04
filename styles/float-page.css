@@ -10,3 +10,17 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.left{
+	float:left;
+	height:338px;
+	width:306px;
+	margin-right: 5px;
+}
+
+.right{
+	float: right;
+	height: 331px;
+	width: 308px;
+	margin-left: 7px;
+}
